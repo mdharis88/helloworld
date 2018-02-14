@@ -1,2 +1,2 @@
 # helloworld
-My Firt GitHub repository
+My First GitHub repository
